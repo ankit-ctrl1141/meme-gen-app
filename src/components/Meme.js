@@ -15,7 +15,7 @@ export default function Meme() {
     automatically retuns a promise instead of a function or nothing.
     Therefore, if you want to use async operations inside of useEffect,
     you need to define the function separately inside of the callback
-    function, as seen below:
+    function, as seen below code:
     */
     
     React.useEffect(() => {
